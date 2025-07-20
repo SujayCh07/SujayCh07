@@ -8,7 +8,7 @@ Specializing in autonomous UAV systems, AI-driven sustainability solutions, and 
 
 ### 🔭 I’m currently working on
 - Developing CacheAI, an AI-powered recruitment platform leveraging Next.js, Supabase, and AWS to automate résumé screening and boost recruiter efficiency.
-- Real-time turbine wake visualization algorithms @ Princeton University to optimize renewable energy placements using OpenCV and MATLAB  
+- Real-time turbine wake visualization algorithms @ Princeton University to optimize wind turbine placement using OpenCV and MATLAB by analyzing/mitigating turbine wake.
 
 ### 🌱 Currently Learning & Aspiring To
 - Apply advanced AI techniques like CNN-LSTM models to analyze environmental data and develop innovative solutions to mitigate climate change.
