@@ -1,37 +1,54 @@
-## Hey there! I'm Sujay Chava.
+<h1 align="center">Hey there! I'm Sujay Chava</h1>
 
-🚀 **B.S. Computer Science @ Georgia Tech** | *Concentration: Devices & Intelligence*
+<p align="center">
+  BSCS @ Georgia Tech · AI Engineer Intern @ IBM · Co-Founder & CTO @ CacheAI
+</p>
 
-Specializing in autonomous UAV systems, AI-driven sustainability solutions, and advanced robotics programming.
-
----
-
-### 🔭 I’m currently working on
-- Developing CacheAI, an AI-powered recruitment platform leveraging Next.js, Supabase, and AWS to automate résumé screening and boost recruiter efficiency.
-- Real-time turbine wake visualization algorithms @ Princeton University to optimize wind turbine placement using OpenCV and MATLAB by analyzing/mitigating turbine wake.
-
-### 🌱 Currently Learning & Aspiring To
-- Apply advanced AI techniques like CNN-LSTM models to analyze environmental data and develop innovative solutions to mitigate climate change.
-
-- Deepening my expertise in aerospace control systems and autonomous vehicle decision-making to engineer next-gen UAV technologies.
-  
----
-
-### 📫 Contact Info 
-✉️ schava32@gatech.edu
-🔗 [LinkedIn](https://linkedin.com/in/sujay-chava) | [GitHub](https://github.com/SujayCh07) | [Portfolio Coming Soon]
+<p align="center">
+  <a href="mailto:schava32@gatech.edu">Email</a> ·
+  <a href="https://linkedin.com/in/sujaychava">LinkedIn</a> ·
+  <a href="https://github.com/SujayCh07">GitHub</a> ·
+  <a href="https://devpost.com/SujayCh07">Devpost</a>
+</p>
 
 ---
 
-### 🏆 Highlights & Achievements  
-- **National Finalist & Sustainability Innovation Award, Samsung Solve for Tomorrow:** Led the development of an AI-IoT model that addresses the issue of urban heat islands, earning national recognition as 10 teams (out of 2,500 entries) to solve pressing world problems.
-- **Deans List Semifinalist x2, FIRST Robotics:** Led the programming of camera-based navigation systems that increased robot scoring potential by 65%.
-- **Stanley Black & Decker Applied Technology Award, Pacemaker Cybersecurity Project:** Designed a Python and Raspberry Pi cybersecurity system that significantly improved malware anomaly detection for pacemakers.
+I like building AI products that turn complex information into useful workflows.
 
----
-### 🛠 Skills
-Languages: Python, Java, JavaScript, HTML/CSS, MATLAB
+Most of my recent work has been around recruiting systems, document-grounded recommendations, AI agents, robotics perception, and full-stack products built for real users.
 
-Frameworks: TensorFlow, OpenCV, React, Node.js, Express, Next.js
+## Current focus
 
-Tools/Platforms: Docker, Git, GitHub, AWS, Supabase, Fusion 360
+* Building CacheAI: an AI recruitment platform for structured student profiles, recruiter search, and candidate matching
+* Working at IBM Client Engineering: enterprise AI workflows, automation, and technical enablement
+* Building applied AI/cloud projects: RAG, agents, AWS, FastAPI, React, and real-time systems
+* Researching robotics perception: turning rover sensor data into navigation-ready terrain maps
+
+## Selected work
+
+| Project               | What it is                                                                             | My role                                                                              | Stack                                                           |
+| --------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| **CacheAI**           | AI recruitment platform for structured student profiles and recruiter search           | Co-Founder & CTO: matching, onboarding, auth, recruiter workflows                    | Next.js, TypeScript, Supabase, PostgreSQL, Azure OpenAI         |
+| **FinMate**           | AWS/Lincoln Financial hackathon benefits advisor for document-grounded recommendations | Helped design retrieval flow, backend APIs, and recommendation UX with team                  | AWS, Bedrock, Lambda, API Gateway, DynamoDB, S3, FastAPI, React |
+| **EchoLocate**        | Agentic AI digital forensics game                                                      | Built agent-to-UI workflows, evidence graph, case board, and investigation interface | LLM agents, React, TypeScript, FastAPI                          |
+| **Kora**              | Real-time AI vision assistant for accessibility                                        | Developed detection/depth pipeline, spatial danger grid, and real-time scene streaming   | YOLOv8, MiDaS, OpenCV, FastAPI, WebSockets                      |
+| **Rover Perception**  | ROS2 rover mapping pipeline for terrain understanding                                  | Created point-cloud to occupancy-grid pipeline for live rover testing                  | Python, ROS2, TF2, PointCloud2, RViz, Nav2                      |
+| **Urban Heat AI-IoT Sensors** | Samsung Solve for Tomorrow National Finalist project for heat-risk mapping                      | Built AI/IoT heat mapping and mitigation workflow                                    | CNN-LSTM, IoT sensors, geospatial dashboards                    |
+
+## Technical stack
+
+**AI:** RAG, embeddings, vector search, LLM workflows, structured outputs, OpenCV, YOLOv8, MiDaS, CNN-LSTM
+**Cloud/backend:** AWS, Bedrock, Lambda, API Gateway, DynamoDB, S3, FastAPI, Node.js, PostgreSQL, Supabase
+**Frontend/product:** React, Next.js, TypeScript, dashboards, recruiter workflows, real-time interfaces
+**Robotics/systems:** ROS2, TF2, PointCloud2, RViz, Nav2, Docker, Linux, Git/GitHub
+**Languages:** Python, TypeScript, JavaScript, Java, SQL, C/C++, MATLAB
+
+## What I'm looking for
+
+Internships and technical roles around applied AI, cloud engineering, solutions architecture, full-stack AI products, and robotics perception.
+
+## Contact
+
+**Email:** [schava32@gatech.edu](mailto:schava32@gatech.edu)
+**LinkedIn:** [linkedin.com/in/sujaychava](https://linkedin.com/in/sujaychava)
+**Devpost:** [devpost.com/SujayCh07](https://devpost.com/SujayCh07)
