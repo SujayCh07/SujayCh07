@@ -35,13 +35,14 @@ Most of my recent work has been around recruiting systems, document-grounded rec
 | **Rover Perception**  | ROS2 rover mapping pipeline for terrain understanding                                  | Created point-cloud to occupancy-grid pipeline for live rover testing                  | Python, ROS2, TF2, PointCloud2, RViz, Nav2                      |
 | **Urban Heat AI-IoT Sensors** | Samsung Solve for Tomorrow National Finalist project for heat-risk mapping                      | Built AI/IoT heat mapping and mitigation workflow                                    | CNN-LSTM, IoT sensors, geospatial dashboards                    |
 
-## Technical stack
+### 🧰 Technical Toolkit
 
-**AI:** RAG, embeddings, vector search, LLM workflows, structured outputs, OpenCV, YOLOv8, MiDaS, CNN-LSTM
-**Cloud/backend:** AWS, Bedrock, Lambda, API Gateway, DynamoDB, S3, FastAPI, Node.js, PostgreSQL, Supabase
-**Frontend/product:** React, Next.js, TypeScript, dashboards, recruiter workflows, real-time interfaces
-**Robotics/systems:** ROS2, TF2, PointCloud2, RViz, Nav2, Docker, Linux, Git/GitHub
-**Languages:** Python, TypeScript, JavaScript, Java, SQL, C/C++, MATLAB
+* **AI / ML:** RAG, embeddings, vector search, LLM workflows, OpenCV
+* **Backend / Cloud:** AWS, FastAPI, Node.js, PostgreSQL, Supabase
+* **Frontend / Product:** React, Next.js, TypeScript, dashboards, recruiter workflows
+* **Robotics / Systems:** ROS2, Docker, Linux, Git/GitHub
+* **Languages:** Python, TypeScript, JavaScript, Java, SQL, C/C++, MATLAB
+
 
 ## What I'm looking for
 
