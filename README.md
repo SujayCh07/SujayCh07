@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Sujay Chava</h1>
 
 <p align="center">
-  BSCS @ Georgia Tech · AI Engineer Intern @ IBM · Co-Founder & CTO @ CacheAI
+  BSCS @ Georgia Tech · AI Engineer Intern @ IBM · Co-Founder & CTO @ Cache
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Most of my recent work has been around recruiting systems, document-grounded rec
 
 ## Current focus
 
-* Building CacheAI: an AI recruitment platform for structured student profiles, recruiter search, and candidate matching
+* Building Cache: an AI recruitment platform for structured student profiles, recruiter search, and candidate matching
 * Working at IBM Client Engineering: enterprise AI workflows, automation, and technical enablement
 * Building applied AI/cloud projects: RAG, agents, AWS, FastAPI, React, and real-time systems
 * Researching robotics perception: turning rover sensor data into navigation-ready terrain maps
