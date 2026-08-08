@@ -1,43 +1,55 @@
-<p align="center"><img src="./assets/hero.svg" alt="Sujay Chava — AI engineering for useful systems" width="1200"></p>
+<h1 align="center">Hey there! I'm Sujay Chava</h1>
 
-<p align="center"><a href="https://linkedin.com/in/sujaychava">LinkedIn</a> · <a href="mailto:schava32@gatech.edu">Email</a> · <a href="https://devpost.com/SujayCh07">Devpost</a> · <a href="https://github.com/SujayCh07">GitHub</a></p>
+<p align="center">
+  BSCS @ Georgia Tech · AI Engineer Intern @ IBM · Co-Founder & CTO @ Cache
+</p>
 
-I build AI products and software systems that turn complex information into useful workflows — from recruiting search and document-grounded recommendations to agent interfaces, robotics perception, and real-time vision.
+<p align="center">
+  <a href="mailto:schava32@gatech.edu">Email</a> ·
+  <a href="https://linkedin.com/in/sujaychava">LinkedIn</a> ·
+  <a href="https://github.com/SujayCh07">GitHub</a> ·
+  <a href="https://devpost.com/SujayCh07">Devpost</a>
+</p>
 
-<p align="center"><img src="./assets/ecosystem.svg" alt="Engineering map connecting applied AI, search, backend systems, agents, computer vision, and robotics to six projects" width="1200"></p>
+---
 
-## Selected engineering work
+I like building AI products that turn complex information into useful workflows.
 
-<p align="center"><img src="./assets/projects.svg" alt="Six selected engineering project cards" width="1200"></p>
-
-| Project | Purpose | My contribution | Link |
-| --- | --- | --- | --- |
-| **Cache** | AI recruitment platform for structured student profiles, recruiter search, and matching | Co-Founder & CTO: matching, onboarding, auth, recruiter workflows | [case study](https://github.com/SujayCh07/cache-case-study-sujayc) |
-| **FinMate** | Document-grounded benefits advisor | Retrieval flow, backend APIs, recommendation UX with team | [repository](https://github.com/SujayCh07/finmate-ai-benefits-advisor-sujayc) |
-| **EchoLocate** | Agentic AI digital forensics game | Agent-to-UI workflows, evidence graph, case board, investigation interface | [repository](https://github.com/SujayCh07/agentic-digital-forensics-simulator-sujayc) |
-| **Kora** | Real-time AI vision assistant for accessibility | Detection/depth pipeline, spatial danger grid, real-time scene streaming | [repository](https://github.com/SujayCh07/kora-ai-vision-assistant-sujayc) |
-| **Rover Perception** | ROS2 terrain-understanding pipeline | Point-cloud to occupancy-grid pipeline for live rover testing | [repository](https://github.com/SujayCh07/lunar-rover-perception-sujayc) |
-| **Urban Heat AI-IoT** | Heat-risk mapping and mitigation workflow | AI/IoT heat mapping and geospatial dashboard workflow | — |
-
-<p align="center"><img src="./assets/telemetry.svg" alt="Profile telemetry showing six featured builds, six domains, five toolkit groups, and four engineering contexts" width="1200"></p>
-
-## The route
-
-<p align="center"><img src="./assets/route.svg" alt="Engineering route through Georgia Tech, robotics perception research, IBM Client Engineering, and Cache" width="1200"></p>
-
-## Technical stack
-
-<p align="center"><img src="./assets/stack.svg" alt="Curated technical stack grouped by AI and ML, backend and cloud, frontend and product, robotics and systems, and languages" width="1200"></p>
+Most of my recent work has been around recruiting systems, document-grounded recommendations, AI agents, robotics perception, and full-stack products built for real users.
 
 ## Current focus
 
-- Building **Cache**, an AI recruitment platform for structured student profiles, recruiter search, and candidate matching.
-- Working in **IBM Client Engineering** on enterprise AI workflows, automation, and technical enablement.
-- Building applied AI and cloud projects with RAG, agents, AWS, FastAPI, React, and real-time systems.
-- Researching robotics perception: turning rover sensor data into navigation-ready terrain maps.
+* Building Cache: an AI recruitment platform for structured student profiles, recruiter search, and candidate matching
+* Working at IBM Client Engineering: enterprise AI workflows, automation, and technical enablement
+* Building applied AI/cloud projects: RAG, agents, AWS, FastAPI, React, and real-time systems
+* Researching robotics perception: turning rover sensor data into navigation-ready terrain maps
 
-I’m interested in internships and technical roles around applied AI, cloud engineering, solutions architecture, full-stack AI products, and robotics perception.
+## Selected work
 
-<p align="center"><img src="./assets/footer.svg" alt="Currently building useful AI systems across Cache, applied AI, cloud engineering, and robotics perception" width="1200"></p>
+| Project               | What it is                                                                             | My role                                                                              | Stack                                                           |
+| --------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| **Cache**           | AI recruitment platform for structured student profiles and recruiter search           | Co-Founder & CTO: matching, onboarding, auth, recruiter workflows                    | Next.js, TypeScript, Supabase, PostgreSQL, Azure OpenAI         |
+| **FinMate**           | AWS/Lincoln Financial hackathon benefits advisor for document-grounded recommendations | Helped design retrieval flow, backend APIs, and recommendation UX with team                  | AWS, Bedrock, Lambda, API Gateway, DynamoDB, S3, FastAPI, React |
+| **EchoLocate**        | Agentic AI digital forensics game                                                      | Built agent-to-UI workflows, evidence graph, case board, and investigation interface | LLM agents, React, TypeScript, FastAPI                          |
+| **Kora**              | Real-time AI vision assistant for accessibility                                        | Developed detection/depth pipeline, spatial danger grid, and real-time scene streaming   | YOLOv8, MiDaS, OpenCV, FastAPI, WebSockets                      |
+| **Rover Perception**  | ROS2 rover mapping pipeline for terrain understanding                                  | Created point-cloud to occupancy-grid pipeline for live rover testing                  | Python, ROS2, TF2, PointCloud2, RViz, Nav2                      |
+| **Urban Heat AI-IoT Sensors** | Samsung Solve for Tomorrow National Finalist project for heat-risk mapping                      | Built AI/IoT heat mapping and mitigation workflow                                    | CNN-LSTM, IoT sensors, geospatial dashboards                    |
 
-<p align="center"><a href="mailto:schava32@gatech.edu">schava32@gatech.edu</a> · <a href="https://linkedin.com/in/sujaychava">linkedin.com/in/sujaychava</a></p>
+### 🧰 Technical Toolkit
+
+* **AI / ML:** RAG, embeddings, vector search, LLM workflows, OpenCV
+* **Backend / Cloud:** AWS, FastAPI, Node.js, PostgreSQL, Supabase
+* **Frontend / Product:** React, Next.js, TypeScript, dashboards, recruiter workflows
+* **Robotics / Systems:** ROS2, Docker, Linux, Git/GitHub
+* **Languages:** Python, TypeScript, JavaScript, Java, SQL, C/C++, MATLAB
+
+
+## What I'm looking for
+
+Internships and technical roles around applied AI, cloud engineering, solutions architecture, full-stack AI products, and robotics perception.
+
+## Contact
+
+**Email:** [schava32@gatech.edu](mailto:schava32@gatech.edu)
+**LinkedIn:** [linkedin.com/in/sujaychava](https://linkedin.com/in/sujaychava)
+**Devpost:** [devpost.com/SujayCh07](https://devpost.com/SujayCh07)
